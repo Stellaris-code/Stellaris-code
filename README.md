@@ -16,7 +16,7 @@ Default Github Readme page stuff:
 - 📫 How to reach me: 
   - Discord: Stellaris#1171
   - Email: Stellaris62@protonmail.com
-- ⚡ Fun fact: Bill Gates once said that the 286, one of the earlier x86 chips, was _brain dead_. Well, he wasn't really wrong, its design was interesting to say the least!
+- ⚡ Fun fact: Bill Gates once said that the 286, one of the earlier x86 chips, was _brain dead_. Well, he wasn't really wrong, its design was convoluted to say the least!
 
 ### Some stats about my github profile
 
