@@ -16,21 +16,15 @@ Default Github Readme page stuff:
 - 📫 How to reach me: 
   - Discord: Stellaris#1171
   - Email: Stellaris62@protonmail.com
-- 😄 Pronouns: _She/her_
 - ⚡ Fun fact: Bill Gates once said that the 286, one of the earlier x86 chips, was _brain dead_. Well, he wasn't really wrong, its design was interesting to say the least!
 
-### Some boring stats about my github profile
+### Some stats about my github profile
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stellaris-code&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Stellaris-code&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Currently working (irregularly) on:
-
-#### smoljson, a JSON library using x86 SIMD instruction sets for fast performance (almost as fast as simdjson!)
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Stellaris-code&repo=smoljson)](https://github.com/Stellaris-code/smoljson)
 
 #### DanmakuParanoia, a bullet-hell game engine with scripting support (homemade script language, compiler and VM)
 
@@ -44,6 +38,10 @@ Default Github Readme page stuff:
 
 
 ### Former projects:
+
+#### smoljson, a JSON library using x86 SIMD instruction sets for fast performance (almost as fast as simdjson!)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Stellaris-code&repo=smoljson)](https://github.com/Stellaris-code/smoljson)
 
 #### LudOS, a x86 hobby OS with ext2 support, 1080p framebuffer, AHCI drivers and more:
 
@@ -60,7 +58,3 @@ Default Github Readme page stuff:
 #### SpaceInvadersEmu, software emulating the original Intel 8080 based arcade cabinet (with sound support)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Stellaris-code&repo=SpaceInvadersEmu)](https://github.com/Stellaris-code/SpaceInvadersEmu)
-
-
-
-![Baka](https://i.kym-cdn.com/entries/icons/original/000/018/206/bT561.jpg)
