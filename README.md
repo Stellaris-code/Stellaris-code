@@ -45,7 +45,7 @@ Default Github Readme page stuff:
 
 #### LudOS, a x86 hobby OS with ext2 support, 1080p framebuffer, AHCI drivers and more:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Stellaris-code&repo=DanmakuParanoia)](https://github.com/Stellaris-code/LudOS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Stellaris-code&repo=LudOS)](https://github.com/Stellaris-code/LudOS)
 
 #### x86CodeGenerator, a small library to be used by JITs to generate x86 code on the fly, along with an optimizing Brainfuck JIT/Compiler demo:
 
